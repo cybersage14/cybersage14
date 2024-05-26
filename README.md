@@ -16,7 +16,6 @@ As a seasoned Senior Full Stack Developer and DevOps Engineer, I bring over 9 ye
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/caddosmith229)
 - Email: caddo.smith229@gmail.com
 
 Feel free to reach out if you want to collaborate on projects or just chat about coding and technology! 😊
