@@ -14,8 +14,5 @@ As a seasoned Senior Full Stack Developer and DevOps Engineer, I bring over 9 ye
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caddoSmith229&show_icons=true&theme=radical)
 
-## 📫 Get in Touch
-
-- Email: caddo.smith229@gmail.com
 
 Feel free to reach out if you want to collaborate on projects or just chat about coding and technology! 😊
